@@ -24,6 +24,6 @@ Feature: Consulta de cursos
     And obtiene <cantidad> cursos
     Examples:
       | modalidad  | cantidad |
-      | PRESENCIAL | 3        |
-      | VIRTUAL    | 3        |
+      | PRESENCIAL | 5        |
+      | VIRTUAL    | 4        |
       | HIBRIDO    | 2        |
